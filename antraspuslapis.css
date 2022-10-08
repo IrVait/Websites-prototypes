@@ -1,0 +1,1018 @@
+:root{
+    --melyna: #302DBA;
+    --zydra: #2EB2DB;
+    --sviesijuoda: #2C2A2A;
+    --sviesijuoda2: #515050;
+    --pilka: #C4C4C4;
+    
+}
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.Mainpage{
+    
+    width: 100%;
+    position: relative;
+    height: 100vh;
+}
+
+
+.Mainvirsutinis{
+     
+}
+.Juodamainjuosta{
+    
+    width: 100%;
+    height: 10vh;
+    position: relative;
+    background-color: var(--sviesijuoda);
+    
+}
+    
+.Logotipas{
+    width: 15%;
+    height: 10vh;
+    background-color: var(--melyna);
+    color: white;
+    font-size: 5vh;
+    position: relative;
+      
+}
+
+.Home{
+    width: 3%;
+    height: 3vh;
+    background-color: var(--zydra);
+    position: relative;
+    left: 35vh;
+    bottom: 6.5vh;
+    text-align: center; 
+}
+
+
+
+
+.meniu1{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu2{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu3{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu4{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu5{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu6{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu7{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+.meniu8{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh
+}
+
+.Login{
+    width: 3%;
+    height: 3vh;
+    background-color: var(--zydra);
+    position: relative;
+    left: 175vh;
+    bottom: 15.5vh;
+    text-align: center;
+}  
+
+.Registruotis{
+    
+    width: 3%;
+    height: 3vh;
+    position: relative;
+    left: 173vh;
+    bottom: 14.5vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    
+    
+}
+
+.Ieškoti{
+    
+     width: 9%;
+    height: 3vh;
+    position: relative;
+    left: 185vh;
+    bottom: 21.3vh;
+    text-align: center;
+    background-color: var(--pilka);
+    
+}
+
+
+
+
+
+.Tvarkaraštis{
+    
+
+    width: 100%;
+    height: 8.2vh;
+    position: relative;
+    background-color: var(--sviesijuoda2); 
+    display: inline-block;
+}
+
+.Data1{
+    
+    text-align: center;
+    width: 8%;   
+    position: relative;
+    height: 8vh;
+    color: white;
+    top: 2.5vh;
+    
+    
+}
+.Data2{
+    
+    text-align: center;
+    width: 8%;   
+    position: relative;
+    height: 2vh;
+    display: inline-block;
+    left: 15vh;
+    bottom: 11.5vh;
+    color: white;
+    
+    
+}
+.Data3{
+    
+    text-align: center;
+    width: 8%;   
+    position: relative;
+    height: 2vh;
+    display: inline-block;
+    left: 15vh;
+    bottom: 11.5vh;
+    color: white;
+    
+}
+
+
+.Rezultatai1{
+    width: 23.2%;
+    height: 7.5vh;
+    background-color: var(--pilka);
+    position: relative;
+    left: 15vh;
+    bottom: 8vh;
+    font-size: 1.8vh;
+    display: inline-block;
+}
+
+.Rezultatai2{
+    width: 23.2%;
+    height: 7.5vh;
+    background-color: var(--pilka);
+    position: relative;
+    left: 15vh;
+    bottom: 8vh;
+    font-size: 1.8vh;
+    display: inline-block;
+}
+.Rezultatai3{
+    width: 23.2%;
+    height: 7.5vh;
+    background-color: var(--pilka);
+    position: relative;
+    left: 15vh;
+    bottom: 8vh;
+    font-size: 1.8vh;
+    display: inline-block;
+}
+
+.Pagrindinenuotrauka{
+    
+    width: 60%;
+    height: 65vh;
+    position: relative;
+    background-color: var(--pilka);
+    text-align: center;
+    top: 15%;
+    font-size: 13vh;
+    padding-top: 100px;
+}
+.Antraštė{
+    width: 20%;
+    height: 1vh;
+    position: relative;
+    font-size: 5vh;
+    top: 5%;
+    left: 51.5vh;
+    color: var(--melyna);    
+
+}
+.Tekstas{
+     width: 60%;
+    height: 10vh;
+    position: relative;
+    text-align: center;
+    top: 30%;
+    font-size: 2.3vh;
+}
+.Naujosžinios{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    text-align: center;
+    left: 70%;
+    bottom: 60vh;
+    background-color: var(--pilka)
+    
+}
+.Nauja{
+
+    position: relative;
+    text-align: center;
+    left: 30%;
+    bottom: 65vh;
+    font-size: 5vh
+}
+.Žinia{
+    top: 2%;
+    font-size: 4vh
+}
+
+.Žiniosjuodastarpas{
+    width: 100%;
+    height: 4vh;
+    background-color: black;
+    position: relative;
+    
+}
+.st{
+    
+    display:inline-block;
+        font-size: 3vh;
+width: 39.9vh;
+    position: relative;
+    text-align: center
+    
+    
+}
+.Dar{
+    top: 0%;
+    position: relative;
+}
+
+.kitanuotrauka{
+    background-color: var(--pilka);
+    width: 20%;
+    height: 25%;
+    top: 5vh;
+    position: relative;
+    
+}
+
+.antraste2{
+    
+    
+    color: var(--melyna);
+    font-size: 2.5vh;
+    position: relative;
+    top: 7vh;
+    left: 14vh;
+    
+}
+
+
+
+.kitanuotrauka2{
+    background-color: var(--pilka);
+    width: 20%;
+    height: 25%;
+    left: 35%;
+    top: -23%;
+    position: relative;
+}
+.antraste3{
+    
+    
+    color: var(--melyna);
+    font-size: 2.5vh;
+    position: relative;
+    top: -21vh;
+    left: 43%;
+    
+}
+
+.rodytikomentarus{
+    background-color: var(--melyna);
+    position: absolute;
+    height: 5%;
+    width: 20%;
+    border-radius: 10%;
+    text-align: center;
+    left: 18%;
+    color: white;
+}
+.komentarulenta{
+    background-color: var(--zydra);
+    position: relative;
+    height: 5%;
+    width: 30%;
+    top: 10%;
+    left: 12.5%;
+    color: white;
+        
+}
+.geriausi{
+    display: inline-block;
+    position: relative;
+    font-size: 3vh;
+    left: 15%;
+}
+
+.naujausi{
+    display: inline-block;
+    left: 27.5%;
+    position: relative;
+    font-size: 3vh;
+}
+
+.visi{
+    display: inline-block;
+    font-size: 3vh;
+    left: 40%;
+    position: relative;
+}
+
+.profilis{
+    background-color: var(--pilka);
+    position: relative;
+    width: 5.5%;
+    height: 7%;
+    top: 20%;
+}
+.vardas{
+    color: var(--melyna);
+    position: relative;
+    top: 13%;
+    left:6%;
+}
+
+.komentaras{
+     position: relative;
+    top: 15.5%;
+    left: 6%;
+}
+
+.laikas{
+    color: var(--pilka);
+    top: 18%;
+    position: relative;
+}
+
+.teigiamas{
+    background-color: green;
+    position: relative;
+    width: 3%;
+    height: 5vh;
+    left: 8%;
+    top: 15%;
+    text-align: center;
+    border-top:
+}
+.neigiamas{
+    background-color: red;
+    position: relative;
+    width: 3%;
+    height: 5vh;
+    left: 13%;
+    top: 10%;
+    text-align: center;
+}
+.ats{
+    position: relative;
+    left: 20%;
+    top: 6.5%;
+    color: var(--melyna);
+}
+
+
+
+    @media screen and (max-width:500px) {
+
+.Mainpage{
+    
+    
+   width: 100%;
+    height: 100vh;
+    
+    
+    
+}
+
+.Juodamainjuost{
+    
+    height: 8vh;
+    width: 100%;
+    background-color: var(--sviesijuoda);
+    position: relative;
+    
+}
+.Logotipas{
+    width: 40%;
+    height: 6vh;
+    background-color: var(--melyna);
+    color: white;
+    font-size: 2vh;
+    position: relative;
+    left: 30%;
+    top: 18px;
+    text-align: center;
+    
+    
+}
+.Login{
+     width: 12%;
+    height: 4.5vh;
+    background-color: var(--zydra);
+    color: white;
+    font-size: 2vh;
+    position: relative;
+    left: 42vh;
+    top: -3vh;
+    display: inline-block;
+    border: px solid;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+.meniumob{
+     width: 12%;
+    height: 4.5vh;
+    background-color: var(--zydra);
+    color: white;
+    font-size: 2vh;
+    position: relative;
+    left: 6vh;
+    top: -3vh;
+    display: inline-block;
+    border: px solid;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+.Tvarkarštis{
+    
+
+    width: 100%;
+    height: 10vh;
+    position: relative;
+    background-color: var(--sviesijuoda2); 
+    display: inline-block;
+    top: -12px;
+}
+.Data1{
+    
+    text-align: center;
+    width: 2%;   
+    position: relative;
+    height: 8vh;
+    color: white;
+    top: 2.5vh;
+    left: 6%;
+    
+}
+
+.Rezultatai1{
+    width: 73%;
+    height: 7.5vh;
+    background-color: var(--pilka);
+    position: relative;
+    bottom: vh;
+    font-size: 1.5vh;
+    display: inline-block;
+    left: 19%;
+    bottom: 57px;
+    text-align: center;
+    
+    
+}
+
+      
+.Pagrindinenuotrauka{
+    
+    width:100%;
+    height: 30vh;
+    background-color: var(--pilka);
+    position: relative;
+    text-align: center;
+    font-size: 2vh
+    
+}
+            .Data2{
+    
+    text-align: center;
+    width: 0%;   
+    position: relative;
+    height: 8vh;
+    color: white;
+    top: 2.5vh;
+    left: 20vh;
+    display: none;
+    
+}
+
+.Rezultatai2{
+    width:%;
+    height: 0vh;
+    background-color: var(--pilka);
+    position: relative;
+    bottom: vh;
+    font-size: 1.5vh;
+    display: inline-block;
+    left: 29vh;
+    bottom: 57px;
+    text-align: center;
+    background-color: white;
+    display: none;
+    
+    
+}
+            .Data3{
+    
+    text-align: center;
+    width: 0%;   
+    position: relative;
+    height: 8vh;
+    color: white;
+    top: 2.5vh;
+    left: 50vh;
+                display: none;
+    
+}
+
+.Rezultatai3{
+    width%;
+    height: 0vh;
+    background-color: var(--pilka);
+    position: relative;
+    bottom: vh;
+    font-size: 0h;
+    display: inline-block;
+    left: 200vh;
+    bottom: 57px;
+    text-align: center;
+    display: none;
+    
+    
+}
+
+      
+.Pagrindinenuotrauka{
+    
+    width:100%;
+    height: 35vh;
+    background-color: var(--pilka);
+    position: relative;
+    text-align: center;
+    font-size: 2vh;
+    opacity: inherit;
+    
+}
+.Antraštė{
+    text-align: center;
+    font-size: 4vh;
+    color: var(--melyna);
+    top: 5vh;
+    position: relative;
+    left: 25vh;
+}    
+
+
+.Tekstas{
+    
+    top: 18vh;
+    position: relative;
+    left: 12.5vh;
+    font-size: 2vh
+}
+.Dar{
+    top: 10%;
+    position: relative;
+    left: 2%;
+}
+
+.kitanuotrauka{
+    background-color: var(--pilka);
+    width: 35%;
+    height: 15%;
+    top: 15vh;
+    position: relative;
+    left: 5%;
+    
+}
+
+.antraste2{
+    
+    
+    color: var(--melyna);
+    font-size: 2.5vh;
+    position: relative;
+    top: 15vh;
+    left: 10vh;
+    
+}
+
+
+
+.kitanuotrauka2{
+    background-color: var(--pilka);
+    width: 35%;
+    height: 15%;
+    left: 60%;
+    top: -2.5%;
+    position: relative;
+}
+.antraste3{
+    
+    
+    color: var(--melyna);
+    font-size: 2.5vh;
+    position: relative;
+    top: -2.5vh;
+    left: 71.5%;
+    
+}
+
+.rodytikomentarus{
+    background-color: var(--melyna);
+    position: relative;
+    height: 5%;
+    width: 40%;
+    border-radius: 10%;
+    text-align: center;
+    left: 30%;
+    color: white;
+    top: 5vh;
+    
+}
+.komentarulenta{
+    background-color: var(--zydra);
+    position: relative;
+    height: 5%;
+    width: 75%;
+    top: 15%;
+    left: 15%;
+    color: white;
+        
+}
+.geriausi{
+    display: inline-block;
+    position: relative;
+    font-size: 2vh;
+    left: 15%;
+}
+
+.naujausi{
+    display: inline-block;
+    left: 27.5%;
+    position: relative;
+    font-size: 2vh;
+}
+
+.visi{
+    display: inline-block;
+    font-size: 2vh;
+    left: 40%;
+    position: relative;
+}
+
+.profilis{
+    background-color: var(--pilka);
+    position: relative;
+    width: 15%;
+    height: 8%;
+    top: 20%;
+}
+.vardas{
+    color: var(--melyna);
+    position: relative;
+    top: 12%;
+    left:17%;
+}
+
+.komentaras{
+     position: relative;
+    top: 15.5%;
+    left: 17%;
+}
+
+.laikas{
+    color: var(--pilka);
+    top: 18%;
+    position: relative;
+}
+
+.teigiamas{
+    background-color: green;
+    position: relative;
+    width: 8%;
+    height: 5vh;
+    left: 25%;
+    top: 15%;
+    text-align: center;
+    border-top:
+}
+.neigiamas{
+    background-color: red;
+    position: relative;
+    width: 8%;
+    height: 5vh;
+    left: 35%;
+    top: 10%;
+    text-align: center;
+}
+.ats{
+    position: relative;
+    left: 50%;
+    top: 6.5%;
+    color: var(--melyna);
+}
+
+.Nauja{
+
+    position: relative;
+    text-align: center;
+    left: 30%;
+    bottom: 65vh;
+    font-size: 5vh;
+    left: 500vh;
+    display: none;
+}
+.Žinia{
+    top: 2%;
+    font-size: 4vh;
+    left: 500vh;
+    position: relative;
+    display: none;
+}
+
+.Žiniosjuodastarpas{
+    width: 100%;
+    height: 4vh;
+    background-color: black;
+    position: relative;
+    left: 500vh;
+    display: none;
+    
+}
+.st{
+    
+    display:inline-block;
+        font-size: 3vh;
+width: 39.9vh;
+    position: relative;
+    text-align: center;
+    left: 50vh;
+    display: none;
+    
+    
+}
+
+    
+
+.Home{
+    width: 3%;
+    height: 3vh;
+    background-color: var(--zydra);
+    position: relative;
+    left: 100vh;
+    bottom: 6.5vh;
+    text-align: center; 
+    display: none;
+}
+
+
+.meniu1{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 100vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+.meniu2{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 100vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+        display: none;
+}
+.meniu3{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 100vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+        display: none;
+}
+.meniu4{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 100vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+.meniu5{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 100vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+.meniu6{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+.meniu7{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+.meniu8{
+    display: inline-block;
+    width: 8%;
+    height: 3vh;
+    position: relative;
+    left: 40vh;
+    bottom: 9.7vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+}
+
+
+
+.Registruotis{
+    
+    width: 3%;
+    height: 3vh;
+    position: relative;
+    left: 170.3vh;
+    bottom: 12vh;
+    text-align: center;
+    color: white;
+    font-size: 2vh;
+    display: none;
+    
+}
+
+.Ieškoti{
+    
+     width: 9%;
+    height: 3vh;
+    position: relative;
+    left: 181.5vh;
+    bottom: 21.5vh;
+    text-align: center;
+    background-color: var(--pilka);
+    display: none;
+    
+}
+            .Naujosžinios{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    text-align: center;
+    left: 1000vh;
+    bottom: 60vh;
+    background-color: var(--pilka);
+                
+    
+}
+            
+}
